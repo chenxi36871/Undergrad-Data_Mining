@@ -1,0 +1,12 @@
+使用主成分分析方法，分析手写数据集''zip.train''中任一其它数字（非数字3）的特征。
+
+使用奇异值分解方法分析案例 股票收益率数据，并对比主成分分析结果。
+
+理解主成分分析、特征分解和奇异值分解的关系，并将文字论述与公式、代码和案例中的意义对应起来。
+
+
+1. Using principal component analysis, analyze the features of any other digit (not digit 3) in the handwritten dataset ''zip.train''
+
+2. Analyze the stock return data using the singular value decomposition method and compare the results with that of PCA.
+
+3. Understand the relationship between principal component analysis, eigendecomposition, and singular value decomposition.

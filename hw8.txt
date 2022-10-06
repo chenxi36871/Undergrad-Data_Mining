@@ -1,0 +1,12 @@
+
+模拟生成不平衡数据，使用逻辑回归进行分类，并比较欠采样，过采样和改变阈值三种方法的效果。
+
+编写自然三阶样条的模拟仿真程序
+
+连续变化核技巧模拟仿真中的两个参数，观察最终拟合结果的变化
+
+1. The simulation generates imbalanced data, uses logistic regression for classification, and compares the effects of undersampling, oversampling, and changing the threshold.
+
+2. Write a simulation program for natural third-order splines
+
+3. Continuously change the kernel technique to simulate two parameters in the simulation and observe the change in the final fitting result

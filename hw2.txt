@@ -1,0 +1,8 @@
+
+
+1, write a class similar to class 'process_stock', 
+with new functions: (1) inputs are a specific day and a stock code, outputs are the open-high-low-close
+price of the stock in that day. 
+(2) inputs are a list of days and a stock code, outputs are the open-high-low-close price of the stock in those days. 
+
+2, write code of 'Regression' class

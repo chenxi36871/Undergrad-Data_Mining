@@ -1,0 +1,15 @@
+编写程序，计算沪深300成份股每个股票收益率的峰度和偏度，看看是否有一些规律。
+
+对2维数据，编写核密度估计的代码并进行模拟。
+
+修改Kmeans程序，存储目标函数序列，并做图。
+
+预习主成分分析的理论内容。
+
+1. Write code to calculate the kurtosis and skewness of each stock return of the CSI 300 constituent stocks. Try to find if there is any pattern
+
+2. For 2D data, code the kernel density estimation and do the simulation.
+
+3. Modify the Kmeans code, store the target function array, and make a graph.
+
+4. Preview principal component analysis.

@@ -1,0 +1,12 @@
+
+参考局部常数回归，写出K邻近估计法的目标函数。
+
+(选做题)参考PPT6 局部似然估计部分，写出非参数逻辑回归的局部似然估计的牛顿算法并进行模拟仿真 
+
+编写模拟仿真程序，使用交叉验证法选择岭回归的惩罚参数
+
+With reference to local constant regression, write the objective function of the K-neighbor estimation method.
+
+(Optional) Refer to PPT6 Local Likelihood Estimation section, write the Newton algorithm for local likelihood estimation of nonparametric logistic regression and simulate
+
+Write a simulation program to choose penalty parameters for ridge regression using cross-validation

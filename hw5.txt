@@ -1,0 +1,11 @@
+在回归模拟仿真中，编写计算R方的程序
+
+编写向后选择法的程序并进行模拟仿真
+
+在指数跟踪的案例中，使用移动窗口的方法回测跟踪误差
+
+1. In the simulation of the regression model, write the code to calculate the R square.
+
+2. Write the code of BIC method to do variable selection and conduct simulation.
+
+3. In the case of exponential tracking, backtesting the tracking error using a moving window method

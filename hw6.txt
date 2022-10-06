@@ -1,0 +1,11 @@
+使用二次规划算法求解Lasso问题，并学习cvxpy模块
+
+编写Lasso问题的局部二次近似算法的程序并进行模拟仿真
+
+理解奇异值分解在OLS，岭回归和主成分回归的运用
+
+1. Solve Lasso problem using quadratic programming algorithm and learn cvxpy package in python
+
+2. Write a program for a local quadratic approximation algorithm for the Lasso problem and simulate it
+
+3. Understand the use of singular value decomposition in OLS, ridge regression and principal component regression
